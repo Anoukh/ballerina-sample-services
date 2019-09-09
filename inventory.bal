@@ -1,7 +1,6 @@
 import ballerina/http;
 import ballerina/log;
 import ballerinax/java.jdbc;
-import ballerina/io;
 import ballerina/'lang\.int as integer;
 
 type Inventory record {|
